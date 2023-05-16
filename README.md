@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://ga-weather-app.netlify.app/
+https://gas-weather-app.netlify.app/
 
 O escopo desse programa consiste em prover informações climatológicas para mais de 5 mil cidades brasileiras. Para tal desiderato, utiliza-se de conexões com a API da OpenWeatherMap, que, por sua vez, se vale dos dados colhidos pelo INMET (Instituto Nacional de Meteorologia). 
 A aplicação disponibiliza dados de até uma semana, englobando informações como a velocidade das correntes de ar, a umidade do ar, a temperatura atmosférica e o índice ultravioleta.
