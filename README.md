@@ -36,7 +36,7 @@ npm install
 # executar o projeto
 npm start
 ```
-
+Com o intuito de fazer uso desse programa, torna-se imprescindível a adição de um token na variável API_KEY, localizada no arquivo ChooseState.js, pertencente à API do OpenWeatherMap.
 
 # Autor
 
