@@ -22,7 +22,7 @@ const ChooseState = () => {
     })
   }
 
-  const API_KEY = 'd1e690496ad59ec5903ae8053969c360';
+  const API_KEY = '';
   const url = `https://api.openweathermap.org/data/2.5/onecall?lat=${coord.lat}&lon=${coord.long}&lang=pt_br&exclude=${exclude}&units=metric&appid=${API_KEY}`
   const urlLat = `http://api.openweathermap.org/geo/1.0/direct?q=${city.Nome}&limit=5&appid=${API_KEY}`
 
