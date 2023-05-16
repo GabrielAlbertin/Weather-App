@@ -10,7 +10,7 @@ O escopo desse programa consiste em prover informações climatológicas para ma
 A aplicação disponibiliza dados de até uma semana, englobando informações como a velocidade das correntes de ar, a umidade do ar, a temperatura atmosférica e o índice ultravioleta.
 
 ## Layout
-![Layout](https://github.com/GabrielAlbertin/Calculator/blob/master/assets/calculadora1.png)
+![Layout](https://github.com/GabrielAlbertin/Calculator/blob/master/assets/clima1-1.png)
 
 # Tecnologias utilizadas
 ## Front end
